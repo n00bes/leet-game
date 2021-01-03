@@ -1,0 +1,10 @@
+C:\Users\1337\leet game\leet\leet\bin\Debug\leet.exe.config
+C:\Users\1337\leet game\leet\leet\bin\Debug\leet.exe
+C:\Users\1337\leet game\leet\leet\bin\Debug\leet.pdb
+C:\Users\1337\leet game\leet\leet\obj\Debug\leet.csprojAssemblyReference.cache
+C:\Users\1337\leet game\leet\leet\obj\Debug\leet.Properties.Resources.resources
+C:\Users\1337\leet game\leet\leet\obj\Debug\leet.csproj.GenerateResource.cache
+C:\Users\1337\leet game\leet\leet\obj\Debug\leet.csproj.CoreCompileInputs.cache
+C:\Users\1337\leet game\leet\leet\obj\Debug\leet.exe
+C:\Users\1337\leet game\leet\leet\obj\Debug\leet.pdb
+C:\Users\1337\leet game\leet\leet\obj\Debug\leet.Form1.resources
